@@ -1,0 +1,5 @@
+﻿  compulsory3.cpp
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(11,8): error C3646: 'files': unknown override specifier
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(11,13): error C2143: syntax error: missing ',' before '['
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(11,16): error C2238: unexpected token(s) preceding ';'
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

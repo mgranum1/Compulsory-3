@@ -1,0 +1,4 @@
+﻿  compulsory3.cpp
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\marti\Desktop\Programmering\compulsory3\header.h(125): warning C4715: 'Folder::ListFolder': not all control paths return a value
+  compulsory3.vcxproj -> C:\Users\marti\Desktop\Programmering\compulsory3\x64\Debug\compulsory3.exe
